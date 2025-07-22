@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dopiest
+- 👋 Hi, I’m @Ayrezz
 - 👀 I’m interested in learn how to use codes
 - 🌱 I’m currently learning about java, HTML, CSS and Python
 
